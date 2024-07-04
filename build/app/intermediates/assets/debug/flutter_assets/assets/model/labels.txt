@@ -1,0 +1,3 @@
+Blight
+Common_Rust
+Healthy
